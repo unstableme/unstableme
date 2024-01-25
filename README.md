@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Santosh Sapkota</h1>
-<h3 align="center">Interested in Python but I hate snakes.</h3>
+<h3 align="center">Computer Engineer by Degree, Working as Data Scientist</h3>
 
 <!--<img align="right" alt="data" width="400"  height="220" src= "https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">-->
 
